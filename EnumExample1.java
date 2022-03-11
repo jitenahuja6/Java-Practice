@@ -4,7 +4,7 @@ package com.java.practise;
 
 public class EnumExample1 {
 	
-	public enum Season { WINTER, SPRING, SUMMER, FALL, MONSOON,Rainy }  
+	public enum Season { WINTER, SPRING, SUMMER, FALL, MONSOON,Rainy,Christmas }  
 	//main method  
 	public static void main(String[] args) {  
 	//traversing the enum  
